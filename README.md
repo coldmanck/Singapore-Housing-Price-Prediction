@@ -8,6 +8,10 @@ Stacked Ensembled Models, using Lasso, Elastic Net, Gradient Boosting, XGBoost a
 ## Data
 Please get your data from [Kaggle](https://www.kaggle.com/c/singapore-housing-prices) and put them under `data` directory.
 
+### Visualization
+Heatmap of HDB data
+<img src="heatmap.png" />
+
 ## Usage
 ```
 pip install -r requirements.txt
