@@ -10,7 +10,7 @@ Please get your data from [Kaggle](https://www.kaggle.com/c/singapore-housing-pr
 
 ### Visualization
 Heatmap of HDB data
-<img src="heatmap.png" />
+<img src="visualization/heatmap.png" />
 
 ## Usage
 ```
